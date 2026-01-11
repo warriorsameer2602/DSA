@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "stack4",
+      "request": "launch",
+      "mainClass": "StackB.stack4",
+      "projectName": "DSA_e4a481e2"
+    },
+    {
+      "type": "java",
+      "name": "stack3",
+      "request": "launch",
+      "mainClass": "StackB.stack3",
+      "projectName": "DSA_e4a481e2"
+    },
+    {
+      "type": "java",
       "name": "stack2",
       "request": "launch",
       "mainClass": "StackB.stack2",
