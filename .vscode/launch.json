@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "stack1",
+      "request": "launch",
+      "mainClass": "StackB.stack1",
+      "projectName": "DSA_e4a481e2"
+    },
+    {
+      "type": "java",
       "name": "Practice",
       "request": "launch",
       "mainClass": "Practice",
