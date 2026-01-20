@@ -3,6 +3,83 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Duplicateparentheses",
+      "request": "launch",
+      "mainClass": "StackB.Duplicateparentheses",
+      "projectName": "DSA_2a7f70e3"
+    },
+    {
+      "type": "java",
+      "name": "validPrenthesis",
+      "request": "launch",
+      "mainClass": "StackB.validPrenthesis",
+      "projectName": "DSA_2a7f70e3"
+    },
+    {
+      "type": "java",
+      "name": "nextGreaterElement",
+      "request": "launch",
+      "mainClass": "StackB.nextGreaterElement",
+      "projectName": "DSA_2a7f70e3"
+    },
+    {
+      "type": "java",
+      "name": "Stockspan",
+      "request": "launch",
+      "mainClass": "StackB.Stockspan",
+      "projectName": "DSA_2a7f70e3"
+    },
+    {
+      "type": "java",
+      "name": "stack6",
+      "request": "launch",
+      "mainClass": "StackB.stack6",
+      "projectName": "DSA_2a7f70e3"
+    },
+    {
+      "type": "java",
+      "name": "stack5",
+      "request": "launch",
+      "mainClass": "StackB.stack5",
+      "projectName": "DSA_2a7f70e3"
+    },
+    {
+      "type": "java",
+      "name": "DoubleLL",
+      "request": "launch",
+      "mainClass": "DoubleLL",
+      "projectName": "DSA_2a7f70e3"
+    },
+    {
+      "type": "java",
+      "name": "LLmergesort",
+      "request": "launch",
+      "mainClass": "LLmergesort",
+      "projectName": "DSA_2a7f70e3"
+    },
+    {
+      "type": "java",
+      "name": "LikedList2",
+      "request": "launch",
+      "mainClass": "LikedList2",
+      "projectName": "DSA_2a7f70e3"
+    },
+    {
+      "type": "java",
+      "name": "stack4",
+      "request": "launch",
+      "mainClass": "StackB.stack4",
+      "projectName": "DSA_2a7f70e3"
+    },
+    {
+      "type": "java",
+      "name": "LinkedList",
+      "request": "launch",
+      "mainClass": "LinkedList",
+      "projectName": "DSA_2a7f70e3"
+    },
+    {
+      "type": "java",
       "name": "stack4",
       "request": "launch",
       "mainClass": "StackB.stack4",

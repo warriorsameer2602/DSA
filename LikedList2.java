@@ -71,10 +71,46 @@ this.next= null;
 
     }
 
+public void deleteNthfromEnd(int n ){
+    int sz =0;
+    node temp = head;
+    while(temp != null){
+        temp = temp.next;
+        sz++;
+    }
+
+    if( n ==sz){
+        head = head.next;//Remove first
+        return;
+    }
+
+    int i =1;
+    int iToFind = sz -n;
+    node prev = head;
+    while(i < iToFind){
+        prev = prev.next;
+        i++;
+
+    }
+    prev.next = prev.next.next;
+    return;
+
+}
+
+public node findMiddle(){
+    node slow = head;
+    node fast = head;
+    while(fast !=null && fast.next!=null){
+        slow=slow.next;//Jump by one step
+        fast = fast.next.next;//jump by two steps;
+    }
+    return slow;
+
+}
     public static void main(String[] args) {
         LikedList2 ll=new LikedList2();// creation of "ll" object using "linked list" class
 
-        ll.addFirst(4);
+        //ll.addFirst(4);
         
         ll.addFirst(3);
 
@@ -83,15 +119,15 @@ this.next= null;
         ll.addFirst(1);
         ll.addFirst(3);
         ll.print();
-        System.out.println(size);
-        ll.addIndex(2,25);
-        ll.print();
-        System.out.println(size);
+       // System.out.println(size);
+        //ll.addIndex(2,25);
+        //ll.print();
+       // System.out.println(size);
     //     System.out.println("After deleting first node: ");
     //    ll.removeLast();
-    //    ll.print();
+       // ll.print();
     //ll.findKey(3);
-      
+      System.out.println(ll.findMiddle().data);
         
 
         
