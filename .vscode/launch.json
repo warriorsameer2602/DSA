@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "InterationOnHashMap",
+      "request": "launch",
+      "mainClass": "StackB.HashMap.InterationOnHashMap",
+      "projectName": "DSA_2a7f70e3"
+    },
+    {
+      "type": "java",
+      "name": "HashMapIntro",
+      "request": "launch",
+      "mainClass": "StackB.HashMap.HashMapIntro",
+      "projectName": "DSA_2a7f70e3"
+    },
+    {
+      "type": "java",
       "name": "Duplicateparentheses",
       "request": "launch",
       "mainClass": "StackB.Duplicateparentheses",
