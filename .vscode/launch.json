@@ -3,6 +3,69 @@
   "configurations": [
     {
       "type": "java",
+      "name": "LargestZeroSubarray",
+      "request": "launch",
+      "mainClass": "StackB.HashMap.LargestZeroSubarray",
+      "projectName": "DSA_2a7f70e3"
+    },
+    {
+      "type": "java",
+      "name": "ticket",
+      "request": "launch",
+      "mainClass": "StackB.HashMap.ticket",
+      "projectName": "DSA_2a7f70e3"
+    },
+    {
+      "type": "java",
+      "name": "UnionAndIntersection",
+      "request": "launch",
+      "mainClass": "StackB.HashMap.UnionAndIntersection",
+      "projectName": "DSA_2a7f70e3"
+    },
+    {
+      "type": "java",
+      "name": "CountDistinct",
+      "request": "launch",
+      "mainClass": "StackB.HashMap.CountDistinct",
+      "projectName": "DSA_2a7f70e3"
+    },
+    {
+      "type": "java",
+      "name": "set",
+      "request": "launch",
+      "mainClass": "StackB.HashMap.set",
+      "projectName": "DSA_2a7f70e3"
+    },
+    {
+      "type": "java",
+      "name": "ValidAnagram",
+      "request": "launch",
+      "mainClass": "StackB.HashMap.ValidAnagram",
+      "projectName": "DSA_2a7f70e3"
+    },
+    {
+      "type": "java",
+      "name": "MajorityElement",
+      "request": "launch",
+      "mainClass": "StackB.HashMap.MajorityElement",
+      "projectName": "DSA_2a7f70e3"
+    },
+    {
+      "type": "java",
+      "name": "testTreeMap",
+      "request": "launch",
+      "mainClass": "StackB.HashMap.testTreeMap",
+      "projectName": "DSA_2a7f70e3"
+    },
+    {
+      "type": "java",
+      "name": "test1",
+      "request": "launch",
+      "mainClass": "StackB.test1",
+      "projectName": "DSA_2a7f70e3"
+    },
+    {
+      "type": "java",
       "name": "InterationOnHashMap",
       "request": "launch",
       "mainClass": "StackB.HashMap.InterationOnHashMap",

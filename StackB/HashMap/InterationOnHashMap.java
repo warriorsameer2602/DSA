@@ -9,7 +9,7 @@ public class InterationOnHashMap {
         hm.put("Indonesia", 11);
         hm.put("Nepal", 5);
 
-        //Interate using set
+        //Iterate using set
 
         Set<String> keys = hm.keySet();
         System.out.println(keys);

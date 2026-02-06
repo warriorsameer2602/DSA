@@ -16,7 +16,7 @@ public class HashMapIntro {
         System.out.println(population);
         System.out.println(hm.get("Indonesia"));
 
-        //ConatinsKey - O(1)
+        //ContainsKey - O(1)
 
         System.out.println(hm.containsKey("India"));//true
          System.out.println(hm.containsKey("Indonesia"));//false
