@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "GridWya",
+      "request": "launch",
+      "mainClass": "Backtracking.GridWya",
+      "projectName": "DSA_2a7f70e3"
+    },
+    {
+      "type": "java",
+      "name": "Permutation",
+      "request": "launch",
+      "mainClass": "Backtracking.Permutation",
+      "projectName": "DSA_2a7f70e3"
+    },
+    {
+      "type": "java",
+      "name": "Subsets",
+      "request": "launch",
+      "mainClass": "Backtracking.Subsets",
+      "projectName": "DSA_2a7f70e3"
+    },
+    {
+      "type": "java",
+      "name": "BacktrackingOnArray",
+      "request": "launch",
+      "mainClass": "Backtracking.BacktrackingOnArray",
+      "projectName": "DSA_2a7f70e3"
+    },
+    {
+      "type": "java",
       "name": "LargestZeroSubarray",
       "request": "launch",
       "mainClass": "StackB.HashMap.LargestZeroSubarray",
