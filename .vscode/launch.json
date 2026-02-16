@@ -3,6 +3,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MaxChainOfPairs",
+      "request": "launch",
+      "mainClass": "GreedyAlgorithm.MaxChainOfPairs",
+      "projectName": "DSA_2a7f70e3"
+    },
+    {
+      "type": "java",
+      "name": "MinAbsoluteDifference",
+      "request": "launch",
+      "mainClass": "GreedyAlgorithm.MinAbsoluteDifference",
+      "projectName": "DSA_2a7f70e3"
+    },
+    {
+      "type": "java",
+      "name": "FractionalKnapsack",
+      "request": "launch",
+      "mainClass": "GreedyAlgorithm.FractionalKnapsack",
+      "projectName": "DSA_2a7f70e3"
+    },
+    {
+      "type": "java",
+      "name": "ActivitySelection2",
+      "request": "launch",
+      "mainClass": "GreedyAlgorithm.ActivitySelection2",
+      "projectName": "DSA_2a7f70e3"
+    },
+    {
+      "type": "java",
+      "name": "ActivitySelection",
+      "request": "launch",
+      "mainClass": "GreedyAlgorithm.ActivitySelection",
+      "projectName": "DSA_2a7f70e3"
+    },
+    {
+      "type": "java",
       "name": "GridWya",
       "request": "launch",
       "mainClass": "Backtracking.GridWya",
