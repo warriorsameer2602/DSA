@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ChocolaProblem",
+      "request": "launch",
+      "mainClass": "GreedyAlgorithm.ChocolaProblem",
+      "projectName": "DSA_2a7f70e3"
+    },
+    {
+      "type": "java",
+      "name": "JobSequencingProblem",
+      "request": "launch",
+      "mainClass": "GreedyAlgorithm.JobSequencingProblem",
+      "projectName": "DSA_2a7f70e3"
+    },
+    {
+      "type": "java",
+      "name": "IndianCoins2",
+      "request": "launch",
+      "mainClass": "GreedyAlgorithm.IndianCoins2",
+      "projectName": "DSA_2a7f70e3"
+    },
+    {
+      "type": "java",
+      "name": "IndianCoins",
+      "request": "launch",
+      "mainClass": "GreedyAlgorithm.IndianCoins",
+      "projectName": "DSA_2a7f70e3"
+    },
+    {
+      "type": "java",
       "name": "MaxChainOfPairs",
       "request": "launch",
       "mainClass": "GreedyAlgorithm.MaxChainOfPairs",
